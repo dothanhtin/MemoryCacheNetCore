@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheCore", "MemoryCacheCore\MemoryCacheCore.csproj", "{EEEC2A27-90CE-497D-AFB9-FA73A29AED2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryCacheLib", "MemoryCacheLib\MemoryCacheLib.csproj", "{270D2E44-62F7-4BCF-8891-5586CA1073C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEC2A27-90CE-497D-AFB9-FA73A29AED2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEC2A27-90CE-497D-AFB9-FA73A29AED2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEC2A27-90CE-497D-AFB9-FA73A29AED2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEC2A27-90CE-497D-AFB9-FA73A29AED2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270D2E44-62F7-4BCF-8891-5586CA1073C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270D2E44-62F7-4BCF-8891-5586CA1073C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270D2E44-62F7-4BCF-8891-5586CA1073C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270D2E44-62F7-4BCF-8891-5586CA1073C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08C9DC0-950E-4C1D-A1E4-CC415BD8C8F8}
+	EndGlobalSection
+EndGlobal

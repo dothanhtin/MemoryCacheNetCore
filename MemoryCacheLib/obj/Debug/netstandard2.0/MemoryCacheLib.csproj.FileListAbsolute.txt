@@ -1,0 +1,9 @@
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\bin\Debug\netstandard2.0\MemoryCacheLib.deps.json
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\bin\Debug\netstandard2.0\MemoryCacheLib.dll
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.csprojAssemblyReference.cache
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.AssemblyInfoInputs.cache
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.AssemblyInfo.cs
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\bin\Debug\netstandard2.0\MemoryCacheLib.pdb
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.csproj.CoreCompileInputs.cache
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.dll
+D:\C#_project\MemoryCacheCore\MemoryCacheLib\obj\Debug\netstandard2.0\MemoryCacheLib.pdb
